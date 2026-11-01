@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global cybersecurity training and certification market is valued at approximately **$7 billion to $18 billion** (with broad workforce development and security awareness segments projected to exceed $25 billion by 2030 at a ~12–16% CAGR). The sector is **moderately fragmented**: while a handful of dominant leaders and accreditation giants (such as SANS Institute, CompTIA, and enterprise tech vendors like CrowdStrike) capture large portions of corporate and compliance budgets, the market remains contested by high-growth hands-on lab platforms (Hack The Box, TryHackMe, OffSec) and continuous niche innovators addressing fast-shifting cyber threats.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Hack The Box](https://www.hackthebox.com/)**
-
-  **Hands-on cybersecurity training platform** with labs, Academy, and certifications. **Pricing**: **Free plan** with **20 active Machines, 80+ active Challenges, 2-hour Pwnbox trial**; **VIP+ $25/month or $223/year** (all retired Machines, unlimited Pwnbox, CPE credits); **HTB PRO $49/month or $490/year** (10 flagship Pro Labs, full VIP+ access); **Academy Silver Annual $550/year**, **Gold $1,400/year**, **Platinum $2,000/year**; **Student $10/month** . **Free tier**: Yes, 20 active machines. **Best for**: practitioners wanting realistic offensive labs and structured Academy paths—**trade-off**: Labs and Academy are separate subscriptions.
-
-
-
-- **[TryHackMe](https://tryhackme.com/)**
-
-  **Gamified cybersecurity training** with guided rooms and learning paths. **Pricing**: **Free rooms** available; **Premium** subscription (monthly/annual); **EDU license $30/license/month** for educational institutions; **Business** requires sales contact (minimum 5 licenses, 12-month term, bulk discounts from 50) . **Free tier**: Yes, limited free rooms. **Best for**: beginners wanting guided, gamified learning paths—**trade-off**: business pricing opaque; minimum commitment.
-
-
-
-- **[OffSec](https://www.offsec.com/)**
-
-  **Hands-on training and certification** (OSCP, OSWE, etc.). **Pricing**: **Learn Fundamentals $799/year** (fundamental content); **Learn One $2,749/year** (one 200/300-level course, labs, two exam attempts); **Course + Cert Bundle $1,749/once** (90 days access, one exam attempt); **CyberCore $899/once** (one 100-level course, two exam attempts); **OSCP+ Standalone Exam $1,699/once**; **Annual Membership $299/yr** (quarterly CPE-eligible labs) . **Free tier**: None. **Best for**: professionals pursuing industry-recognized offensive certifications—**trade-off**: premium pricing; exam attempts limited.
-
-
-
-- **[SANS Institute](https://www.sans.org/)**
-
-  **Intensive cybersecurity training and GIAC certification**. **Pricing**: **SEC560 Enterprise Penetration Testing €8,230** (course) + **€905** (certification); **SEC504 Hacker Tools $8,900** (course) + **$999** (certification); **SANS.edu Graduate Certificate total program $22,800** . **Free tier**: None. **Best for**: enterprises and professionals wanting deep, instructor-led training with GIAC credentials—**trade-off**: premium pricing; course + certification sold separately.
-
-
-
-- **[Cybrary](https://www.cybrary.it/)**
-
-  **Cybersecurity training platform** with career paths and cert prep. **Pricing**: **Free Access** (limited career/skill paths, 10 activities/day); **Insider Pro $24.58/month billed annually** (full catalog, unlimited activities); **Teams** and **Enterprise** require sales contact . **Free tier**: Yes, limited catalog and 10 activities/day. **Best for**: individuals wanting affordable access to broad cybersecurity content—**trade-off**: free tier severely limited; Teams/Enterprise pricing opaque.
-
-
-
-- **[INE Security](https://security.ine.com/)**
-
-  **Cybersecurity training with certifications** (eJPT, eCPPT). **Pricing**: **Premium $39/month** includes PTP course and eCPPT exam; plan for **6–12 months of subscription** to complete PTP . **Free tier**: Not specified. **Best for**: learners wanting affordable access to offensive certifications—**trade-off**: subscription duration determines total cost.
-
-
-
-- **[Pluralsight](https://www.pluralsight.com/)**
-
-  **Technology skills platform** with security content. **Pricing**: **Security+ plan** and **Complete plan**; free trial available (excludes labs/sandboxes); promotional 50% discounts periodically . **Free tier**: Trial only. **Best for**: teams wanting broad tech training including security—**trade-off**: security is one domain; not specialized CTF/lab focus.
-
-
-
-- **[Coursera](https://www.coursera.org/)**
-
-  **Online learning platform** with cybersecurity courses and certificates. **Pricing**: **Foundations of Cybersecurity** (Google) available via **$59/month or $399/year** Coursera Plus subscription . **Free tier**: Audit access to some courses. **Best for**: beginners wanting structured video courses with certificates—**trade-off**: limited hands-on labs compared to CTF platforms.
-
-
-
-- **[CompTIA Security+](https://www.comptia.org/)**
-
-  **Entry-level cybersecurity certification**. **Pricing**: **Official voucher $373.15** (discounted from $439); **Voucher + Retake Assurance $492.15** (includes free retake if needed) . **Free tier**: N/A (certification exam). **Best for**: professionals needing the baseline certification for DoD 8570 compliance and HR filters—**trade-off**: exam fee only; training not included.
-
-
-
-- **[CrowdStrike University](https://www.crowdstrike.com/)**
-
-  **Product-specific training** for Falcon platform. **Pricing**: **12-month annual LMS subscription** via CDW; price requires quote request—no public pricing . **Free tier**: None. **Best for**: CrowdStrike customers needing Falcon platform training—**trade-off**: product-specific; not general cybersecurity education.
-
-
+| Platform | Company Size (Revenue / Valuation) | Pricing | Free Tier / Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[CrowdStrike University](https://www.crowdstrike.com/)** | **~$250B+ valuation** (~$4.8B FY2026 ARR / revenue) | Starts at **$500 per training credit**; exam vouchers at **$250/exam**; annual LMS subscriptions quoted per seat/team | **No free tier for non-customers**; free **Fast Track (100-level)** e-learning modules & product update videos included strictly for active Falcon enterprise subscribers | Product-specific education for the Falcon endpoint security platform. Best for enterprise security teams and SOC analysts operating CrowdStrike Falcon. |
+| **[Pluralsight](https://www.pluralsight.com/)** | **~$3.5B private buyout** (recapitalized / $450M+ ARR) | Core Tech starts at **$45/month** or **$449/year**; Complete starts at **$29–$55/month** or **$299/year** billed annually | **10-day free trial** with full course library access (limited to 200 minutes of video streaming; excludes hands-on interactive labs and sandboxes; requires credit card) | Enterprise technology skill-building and cert prep across security, cloud, and IT ops. Best for cross-functional engineering and IT teams. |
+| **[Coursera](https://www.coursera.org/)** | **~$1.2B market cap** (~$757M FY2025 revenue) | Coursera Plus at **$59/month** or **$399/year**; individual certificates start at **$49/month** | **Free Audit mode** available indefinitely on most non-degree courses (video lectures and readings only; excludes graded assignments, certificates, and interactive labs); **7-day free trial** for Coursera Plus | Academic and foundational certification paths (e.g., Google Cybersecurity Certificate). Best for beginners wanting structured university/industry lectures. |
+| **[SANS Institute](https://www.sans.org/)** | **~$500M–$1B estimated revenue** (Escal Institute) | Single course starts at **$8,900** (SEC504) or **€8,230** (SEC560); GIAC exam attempt adds **$999 / €905**; SANS.edu graduate cert at **$22,800** | **No free trial for full OnDemand courses**; free community tier includes **100+ archived webcasts, security policy templates, cheat sheets, and course preview video demos** with a free SANS account | Premier, intensive cybersecurity training and gold-standard GIAC certifications. Best for enterprise-sponsored practitioners and senior defense/offensive personnel. |
+| **[CompTIA Security+](https://www.comptia.org/)** | **~$200M–$280M+ estimated revenue** | Exam voucher starts at **$373.15** ($439 retail); Voucher + Retake Assurance at **$492.15**; CertMaster Learn course starts at **$561** | **No free tier for certification exams**; **60-day evaluation trial** offered selectively for CertMaster Practice/Learn through institutional or partner demo keys (restricted sample lesson subset) | Baseline vendor-neutral cybersecurity certification for DoD 8570/8140 compliance and foundational HR screening. Best for IT professionals starting in info security. |
+| **[Hack The Box](https://www.hackthebox.com/)** | **~$250M–$500M valuation** ($55M Series B; ~$30M–$50M ARR) | VIP+ at **$25/month** or **$223/year**; HTB PRO at **$49/month** or **$490/year**; Academy Silver at **$550/year**; Student at **$10/month** | **Free for life tier** with **20 active Machines, 80+ active Challenges**, and a **one-time 2-hour Pwnbox trial** | Gamified offensive and defensive hands-on hacking labs and structured Academy paths. Best for intermediate-to-advanced penetration testers and CTF players. |
+| **[OffSec](https://www.offsec.com/)** | **~$50M–$100M+ estimated revenue** (Acquired by Leeds Equity) | Course + Cert Bundle starts at **$1,749** (90-day lab access + 1 exam); CyberCore at **$899**; Learn Fundamentals at **$799/year**; Learn One at **$2,749/year** | **Free tier via OffSec Community Portal** with **3 hours/day access to Proving Grounds Play** (community standalone machines), plus full free access to PEN-103 (Kali Linux Revealed) and Metasploit Unleashed | Industry-standard rigorous hands-on certifications (OSCP, OSWE, OSEP). Best for infosec professionals pursuing recognized practical offensive credentials. |
+| **[TryHackMe](https://tryhackme.com/)** | **~$30M–$40M+ ARR** (Bootstrapped) | Premium starts at **$16.99/month** or **$10.50/month ($126/year)** billed annually; MAX plan starts at **$29.11/month** or **$17.99/month** billed annually | **Free for life tier** with access to introductory rooms, foundational learning paths, OpenVPN connection, and **1 hour per day of browser AttackBox** | Hands-on, step-by-step guided security challenges and beginner-to-intermediate learning paths. Best for beginners and aspiring security analysts/pentesters. |
+| **[Cybrary](https://www.cybrary.it/)** | **~$30M–$32M ARR** ($52.2M VC funding raised) | Insider Pro starts at **$24.58/month billed annually** ($295/year) or **$39/month** month-to-month | **Free for life tier** with access to baseline introductory skill paths and a daily limit of **10 learning activities/day**; **7-day free trial** for Insider Pro full catalog access | Career-aligned cybersecurity paths, prep for industry certs, and skill assessments. Best for self-paced learners wanting affordable structured guidance. |
+| **[INE Security](https://security.ine.com/)** | **~$20M–$50M estimated revenue** (West Street / Goldman Sachs PE) | Fundamentals starts at **$349/year**; Premium starts at **$39/month** ($468/year) or **$799/year** (includes eJPT/eCPPT courseware & exam vouchers) | **No ongoing free tier for full catalog**; historically offered a restricted 'Starter Pass'; currently offers limited sample lessons and occasional **7-day promotional evaluation trials** (video-only previews, no advanced labs) | Practical hands-on training with included certifications (eJPT, eCPPT, eWPT). Best for learners seeking affordable practical offensive certifications. |
 
 ## Open-Source GitHub Projects
 
