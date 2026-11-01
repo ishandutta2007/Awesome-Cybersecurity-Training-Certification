@@ -76,7 +76,7 @@ The sector displays a **moderately fragmented** competitive structure:
 
 *Self-hosted training frameworks, deliberately vulnerable targets, red team emulation suites, and CTF competition engines sorted in descending order by GitHub community stars.*
 
-| Repository | GitHub Stars | Primary License | Focus Area &amp; Architecture | Description &amp; Best For |
+| Repository | GitHub_Stars | Primary License | Focus Area &amp; Architecture | Description &amp; Best For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OWASP Cheat Sheet Series](https://github.com/OWASP/CheatSheetSeries)** | [![Stars](https://img.shields.io/github/stars/OWASP/CheatSheetSeries?style=social&color=white)](https://github.com/OWASP/CheatSheetSeries/stargazers) | CC-BY-SA-4.0 | Defensive Engineering &amp; AppSec | Curated, high-value security guidance for developers and defenders covering authentication, input validation, cryptographic storage, and API security. Best reference for secure coding and hardening. |
 | **[Vulhub](https://github.com/vulhub/vulhub)** | [![Stars](https://img.shields.io/github/stars/vulhub/vulhub?style=social&color=white)](https://github.com/vulhub/vulhub/stargazers) | MIT | Pre-built Docker Vulnerability Environments | Turnkey collection of hundreds of real-world vulnerabilities simulated in Docker containers. Spin up complex multi-service CVE exploits with a single `docker compose up` command. |
